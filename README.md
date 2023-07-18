@@ -11,7 +11,8 @@ LoFi Music Playlist app with functional library & music player.
 
 ## Preview
 ![image](https://github.com/kbyph/Vibetopia/assets/102638461/3aa2ddc9-552e-47a9-ab50-7ad37b4fb14d)
-![image](https://github.com/kbyph/Vibetopia/assets/102638461/559a13a5-65d3-4bbf-867f-954ca903db58)
+![image](https://github.com/kbyph/Vibetopia/assets/102638461/ef9b09ed-66e0-460a-8a53-c56c737eab05)
+![image](https://github.com/kbyph/Vibetopia/assets/102638461/b3c743be-a7a8-4470-8ecc-50e433c42262)
 
 
 ## Instructions
