@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  h1,
+  h2,
+  h3 {
+    color: rgb(255, 255, 255);
+  }
+  body {
+    font-family: "Lato", sans-serif;
+  }
+  h3,
+  h4 {
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+  }
+  .App {
+    transition: all 0.5s ease;
+  }
+  
+  .link {
+    text-decoration: none;
+  }
+  
+  .font-face {
+    font-family: "Ganache";
+    src: local("Ganache Regular"),
+      url("../assets/Ganache Regular.ttf") format("truetype");
+  }
+
+  @import "./song";
+  @import "./player";
+  @import "./library";
+  @import "./nav";
+  
