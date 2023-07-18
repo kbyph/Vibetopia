@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vibetopia/static/css/main.eafc778d.css",
+    "main.js": "/Vibetopia/static/js/main.1daa6172.js",
+    "static/media/Samurai.mp3": "/Vibetopia/static/media/Samurai.919c10217af82736b099.mp3",
+    "static/media/site-bg.jpg": "/Vibetopia/static/media/site-bg.181d3c3af03bd97ab355.jpg",
+    "static/media/Ganache Regular.ttf": "/Vibetopia/static/media/Ganache Regular.7dfb8bbae383550110ac.ttf",
+    "index.html": "/Vibetopia/index.html",
+    "main.eafc778d.css.map": "/Vibetopia/static/css/main.eafc778d.css.map",
+    "main.1daa6172.js.map": "/Vibetopia/static/js/main.1daa6172.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eafc778d.css",
+    "static/js/main.1daa6172.js"
+  ]
+}
