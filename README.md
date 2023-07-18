@@ -1,7 +1,7 @@
 # Vibetopia - Frontend React App
 
 ## Overview of Project
-LoFi Music Playlist app with functional library & music player.
+Lo-Fi Music Playlist app with functional library & music player.
 
 ## Resources
   - React.js
