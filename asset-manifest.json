@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/Vibetopia/static/css/main.eafc778d.css",
-    "main.js": "/Vibetopia/static/js/main.1daa6172.js",
-    "static/media/Samurai.mp3": "/Vibetopia/static/media/Samurai.919c10217af82736b099.mp3",
+    "main.css": "/Vibetopia/static/css/main.df536d6c.css",
+    "main.js": "/Vibetopia/static/js/main.fb5f7729.js",
+    "static/media/Sunset.mp3": "/Vibetopia/static/media/Sunset.e0aed237964b42387048.mp3",
+    "static/media/GasStation.mp3": "/Vibetopia/static/media/GasStation.10396d70d6c9795e3e8b.mp3",
+    "static/media/GuitarVibe.mp3": "/Vibetopia/static/media/GuitarVibe.ef23aef7768ca125bb73.mp3",
+    "static/media/NighttimeRamen.mp3": "/Vibetopia/static/media/NighttimeRamen.d182307eed6472edb719.mp3",
+    "static/media/SummerOf80.mp3": "/Vibetopia/static/media/SummerOf80.0651623a77af1769403c.mp3",
+    "static/media/Bookstore.mp3": "/Vibetopia/static/media/Bookstore.c02f1c100473bc892da5.mp3",
+    "static/media/Samurai.mp3": "/Vibetopia/static/media/Samurai.cc42d74be27f9c94e7ae.mp3",
+    "static/media/House.mp3": "/Vibetopia/static/media/House.44f72f0ce1347ee03a92.mp3",
+    "static/media/SpaceTrip.mp3": "/Vibetopia/static/media/SpaceTrip.7fcdde828d02554a2a11.mp3",
+    "static/media/Tokyo.mp3": "/Vibetopia/static/media/Tokyo.17a85dc4af3a1160f5c8.mp3",
+    "static/media/JazzyTown.mp3": "/Vibetopia/static/media/JazzyTown.ef1f520737bfa984a2ea.mp3",
     "static/media/site-bg.jpg": "/Vibetopia/static/media/site-bg.181d3c3af03bd97ab355.jpg",
     "static/media/Ganache Regular.ttf": "/Vibetopia/static/media/Ganache Regular.7dfb8bbae383550110ac.ttf",
     "index.html": "/Vibetopia/index.html",
-    "main.eafc778d.css.map": "/Vibetopia/static/css/main.eafc778d.css.map",
-    "main.1daa6172.js.map": "/Vibetopia/static/js/main.1daa6172.js.map"
+    "main.df536d6c.css.map": "/Vibetopia/static/css/main.df536d6c.css.map",
+    "main.fb5f7729.js.map": "/Vibetopia/static/js/main.fb5f7729.js.map"
   },
   "entrypoints": [
-    "static/css/main.eafc778d.css",
-    "static/js/main.1daa6172.js"
+    "static/css/main.df536d6c.css",
+    "static/js/main.fb5f7729.js"
   ]
 }
