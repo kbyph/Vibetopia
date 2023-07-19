@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vibetopia/static/css/main.df536d6c.css",
-    "main.js": "/Vibetopia/static/js/main.fb5f7729.js",
+    "main.js": "/Vibetopia/static/js/main.32c26eff.js",
     "static/media/Sunset.mp3": "/Vibetopia/static/media/Sunset.e0aed237964b42387048.mp3",
     "static/media/GasStation.mp3": "/Vibetopia/static/media/GasStation.10396d70d6c9795e3e8b.mp3",
     "static/media/GuitarVibe.mp3": "/Vibetopia/static/media/GuitarVibe.ef23aef7768ca125bb73.mp3",
@@ -17,10 +17,10 @@
     "static/media/Ganache Regular.ttf": "/Vibetopia/static/media/Ganache Regular.7dfb8bbae383550110ac.ttf",
     "index.html": "/Vibetopia/index.html",
     "main.df536d6c.css.map": "/Vibetopia/static/css/main.df536d6c.css.map",
-    "main.fb5f7729.js.map": "/Vibetopia/static/js/main.fb5f7729.js.map"
+    "main.32c26eff.js.map": "/Vibetopia/static/js/main.32c26eff.js.map"
   },
   "entrypoints": [
     "static/css/main.df536d6c.css",
-    "static/js/main.fb5f7729.js"
+    "static/js/main.32c26eff.js"
   ]
 }
