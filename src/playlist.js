@@ -1,9 +1,9 @@
 import { v4 as uuidv4 } from "uuid";
-import samurai from "./songs/Samurai.mp3";
-import jazzytown from "./songs/JazzyTown.mp3";
-import house from "./songs/House.mp3";
-import guitarvibe from "./songs/GuitarVibe.mp3";
 import tokyo from "./songs/Tokyo.mp3";
+import house from "./songs/House.mp3";
+import jazzytown from "./songs/JazzyTown.mp3";
+import samurai from "./songs/Samurai.mp3";
+import guitarvibe from "./songs/GuitarVibe.mp3";
 import summerof80 from "./songs/SummerOf80.mp3";
 import nighttimeramen from "./songs/NighttimeRamen.mp3";
 import bookstore from "./songs/Bookstore.mp3";
@@ -14,27 +14,16 @@ import spacetrip from "./songs/SpaceTrip.mp3";
 
 function loFi() {
   return [
-    {
-      name: "Samurai",
+      {
+      name: "Tokyo",
       cover:
-        "https://i3.ytimg.com/vi/jrTMMG0zJyI/maxresdefault.jpg",
-      artist: "The Bootleg Boy",
-      genre: "Hip Hop",
-      audio: (samurai),
-      color: ["#F3AB2D", "#F3372D"],
-      id: uuidv4(),
-      active: true,
-    },
-    {
-      name: "Jazzy Town",
-      cover:
-        "https://i3.ytimg.com/vi/u4ENF5OCtkY/maxresdefault.jpg",
+        "https://i3.ytimg.com/vi/4ZDhE82OO04/maxresdefault.jpg",
       artist: "Fantastic Music",
       genre: "Jazz",
-      audio: (jazzytown),
-      color: ["#205950", "#F3C02D"],
+      audio: (tokyo),
+      color: ["#D94D8A", "#A33DAA"],
       id: uuidv4(),
-      active: false,
+      active: true,
     },
     {
       name: "House Vol.1",
@@ -48,6 +37,28 @@ function loFi() {
       active: false,
     },
     {
+      name: "Jazzy Town",
+      cover:
+        "https://i3.ytimg.com/vi/u4ENF5OCtkY/maxresdefault.jpg",
+      artist: "Fantastic Music",
+      genre: "Jazz",
+      audio: (jazzytown),
+      color: ["#205950", "#F3C02D"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Samurai",
+      cover:
+        "https://i3.ytimg.com/vi/jrTMMG0zJyI/maxresdefault.jpg",
+      artist: "The Bootleg Boy",
+      genre: "Hip Hop",
+      audio: (samurai),
+      color: ["#F3AB2D", "#F3372D"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
       name: "Guitar Vibe",
       cover:
         "https://i3.ytimg.com/vi/njjBbKpkmFI/maxresdefault.jpg",
@@ -55,17 +66,6 @@ function loFi() {
       genre: "Hip Hop",
       audio: (guitarvibe),
       color: ["#FF985B", "#9B3FAB"],
-      id: uuidv4(),
-      active: false,
-    },
-    {
-      name: "Tokyo",
-      cover:
-        "https://i3.ytimg.com/vi/4ZDhE82OO04/maxresdefault.jpg",
-      artist: "Fantastic Music",
-      genre: "Jazz",
-      audio: (tokyo),
-      color: ["#D94D8A", "#A33DAA"],
       id: uuidv4(),
       active: false,
     },
