@@ -10,11 +10,13 @@ Lo-Fi Music Playlist app with a functional library & music player.
   - FortAwesome/FontAwesome
 
 ## Preview
-![image](https://github.com/kbyph/Vibetopia/assets/102638461/98a0adbf-028a-4037-8122-33ce626a9d60)
+<img width="1127" alt="image" src="https://github.com/kbyph/Vibetopia/assets/102638461/3caab81a-22b4-466e-aae3-341ba1ac36e1">
 
-![image](https://github.com/kbyph/Vibetopia/assets/102638461/e7c4f85e-88cc-4295-a295-f6ac0c8edbaf)
+<img width="1127" alt="image" src="https://github.com/kbyph/Vibetopia/assets/102638461/c18f9b92-7aa0-47df-8687-d272107ab85b">
 
-![image](https://github.com/kbyph/Vibetopia/assets/102638461/89c88505-ef4d-4e6b-8a63-e2a40c20deda)
+<img width="1127" alt="image" src="https://github.com/kbyph/Vibetopia/assets/102638461/78210a41-5822-420a-94d4-6277d824453e">
+
+<img width="1127" alt="image" src="https://github.com/kbyph/Vibetopia/assets/102638461/456b651b-f877-42ca-add3-a05240616e30">
 
 
 ## Instructions
