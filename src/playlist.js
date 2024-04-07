@@ -11,13 +11,24 @@ import gasstation from "./songs/GasStation.mp3";
 import sunset from "./songs/Sunset.mp3";
 import spacetrip from "./songs/SpaceTrip.mp3";
 
+import Tokyo from "./thumbnails/Tokyo.png";
+import House from "./thumbnails/House.png";
+import Jazz from "./thumbnails/Jazz.png";
+import Samurai from "./thumbnails/Samurai.png";
+import Guitar from "./thumbnails/Guitar.png";
+import Summer from "./thumbnails/Summer.png";
+import Ramen from "./thumbnails/Ramen.png";
+import Bookstore from "./thumbnails/Bookstore.png";
+import Gas from "./thumbnails/Gas.png";
+import Sunset from "./thumbnails/Sunset.png";
+import Space from "./thumbnails/Space.png";
 
 function loFi() {
   return [
       {
       name: "Tokyo",
       cover:
-        "https://i3.ytimg.com/vi/4ZDhE82OO04/maxresdefault.jpg",
+        (Tokyo),
       artist: "Fantastic Music",
       genre: "Jazz",
       audio: (tokyo),
@@ -28,7 +39,7 @@ function loFi() {
     {
       name: "House Vol.1",
       cover:
-        "https://i3.ytimg.com/vi/XCazyTAZpcU/maxresdefault.jpg",
+        (House),
       artist: "Kiffen Beats",
       genre: "House",
       audio: (house),
@@ -39,7 +50,7 @@ function loFi() {
     {
       name: "Jazzy Town",
       cover:
-        "https://i3.ytimg.com/vi/u4ENF5OCtkY/maxresdefault.jpg",
+        (Jazz),
       artist: "Fantastic Music",
       genre: "Jazz",
       audio: (jazzytown),
@@ -50,7 +61,7 @@ function loFi() {
     {
       name: "Samurai",
       cover:
-        "https://i3.ytimg.com/vi/jrTMMG0zJyI/maxresdefault.jpg",
+        (Samurai),
       artist: "The Bootleg Boy",
       genre: "Hip Hop",
       audio: (samurai),
@@ -61,7 +72,7 @@ function loFi() {
     {
       name: "Guitar Vibe",
       cover:
-        "https://i3.ytimg.com/vi/njjBbKpkmFI/maxresdefault.jpg",
+        (Guitar),
       artist: "Lo-Fi Chill Music",
       genre: "Hip Hop",
       audio: (guitarvibe),
@@ -72,7 +83,7 @@ function loFi() {
     {
       name: "Summer of '80",
       cover:
-        "https://i3.ytimg.com/vi/S7i3ugniyjg/maxresdefault.jpg",
+        (Summer),
       artist: "AmbienceChillz",
       genre: "Synthwave",
       audio: (summerof80),
@@ -83,7 +94,7 @@ function loFi() {
     {
       name: "Nighttime Ramen",
       cover:
-        "https://i3.ytimg.com/vi/iEGFFyv0MH4/maxresdefault.jpg",
+        (Ramen),
       artist: "Chillhop",
       genre: "Hip Hop",
       audio: (nighttimeramen),
@@ -94,7 +105,7 @@ function loFi() {
     {
       name: "Escape to the Bookstore",
       cover:
-        "https://i3.ytimg.com/vi/Ar18V8jaZzY/maxresdefault.jpg",
+        (Bookstore),
       artist: "The Lofi Van",
       genre: "Hip Hop",
       audio: (bookstore),
@@ -105,7 +116,7 @@ function loFi() {
     {
       name: "Gas Station",
       cover:
-        "https://i3.ytimg.com/vi/h9g8JXotdjo/maxresdefault.jpg",
+        (Gas),
       artist: "LoFi Studio",
       genre: "Synthwave",
       audio: (gasstation),
@@ -116,7 +127,7 @@ function loFi() {
     {
       name: "Sunset Ride",
       cover:
-        "https://i3.ytimg.com/vi/iCy1NTEd2EU/maxresdefault.jpg",
+        (Sunset),
       artist: "Lofi Portal",
       genre: "Hip Hop",
       audio: (sunset),
@@ -127,7 +138,7 @@ function loFi() {
     {
       name: "Space Trip",
       cover:
-        "https://i3.ytimg.com/vi/aE_G2IBWIs4/maxresdefault.jpg",
+        (Space),
       artist: "Asthenic",
       genre: "Synthwave",
       audio: (spacetrip),
