@@ -8,6 +8,7 @@ Lo-Fi Music Playlist app with a functional library & music player.
   - Hooks
   - SCSS
   - FortAwesome/FontAwesome
+  - Microsoft Designer (AI Generated Cover Art)
 
 ## Preview
 <img width="1127" alt="image" src="https://github.com/kbyph/Vibetopia/assets/102638461/3caab81a-22b4-466e-aae3-341ba1ac36e1">
