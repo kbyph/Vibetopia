@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vibetopia/static/css/main.f677a2fc.css",
-    "main.js": "/Vibetopia/static/js/main.434c6ff9.js",
+    "main.js": "/Vibetopia/static/js/main.4d2f86f0.js",
     "static/media/Sunset.mp3": "/Vibetopia/static/media/Sunset.e0aed237964b42387048.mp3",
     "static/media/GasStation.mp3": "/Vibetopia/static/media/GasStation.10396d70d6c9795e3e8b.mp3",
     "static/media/GuitarVibe.mp3": "/Vibetopia/static/media/GuitarVibe.ef23aef7768ca125bb73.mp3",
@@ -14,11 +14,11 @@
     "static/media/Tokyo.mp3": "/Vibetopia/static/media/Tokyo.17a85dc4af3a1160f5c8.mp3",
     "static/media/JazzyTown.mp3": "/Vibetopia/static/media/JazzyTown.ef1f520737bfa984a2ea.mp3",
     "static/media/site-bg.jpg": "/Vibetopia/static/media/site-bg.181d3c3af03bd97ab355.jpg",
+    "static/media/House.png": "/Vibetopia/static/media/House.2061f1158dda563d7765.png",
+    "static/media/Jazz.png": "/Vibetopia/static/media/Jazz.2c6e8731f69b951324f1.png",
     "static/media/Ganache Regular.ttf": "/Vibetopia/static/media/Ganache Regular.7dfb8bbae383550110ac.ttf",
-    "static/media/House.png": "/Vibetopia/static/media/House.b9262edb0cd56740dad5.png",
     "static/media/Bookstore.png": "/Vibetopia/static/media/Bookstore.c7d7664aed51765008f1.png",
     "static/media/Summer.png": "/Vibetopia/static/media/Summer.887f372ee585c9808f7a.png",
-    "static/media/Jazz.png": "/Vibetopia/static/media/Jazz.c4c1181b90f00a8bf850.png",
     "static/media/Tokyo.png": "/Vibetopia/static/media/Tokyo.61e733b6995e0d56390c.png",
     "static/media/Samurai.png": "/Vibetopia/static/media/Samurai.9024560ede24ed5e8d3d.png",
     "static/media/Ramen.png": "/Vibetopia/static/media/Ramen.25c9fa6d0742b7b98be3.png",
@@ -28,10 +28,10 @@
     "static/media/Sunset.png": "/Vibetopia/static/media/Sunset.f608daa3adf7766cb613.png",
     "index.html": "/Vibetopia/index.html",
     "main.f677a2fc.css.map": "/Vibetopia/static/css/main.f677a2fc.css.map",
-    "main.434c6ff9.js.map": "/Vibetopia/static/js/main.434c6ff9.js.map"
+    "main.4d2f86f0.js.map": "/Vibetopia/static/js/main.4d2f86f0.js.map"
   },
   "entrypoints": [
     "static/css/main.f677a2fc.css",
-    "static/js/main.434c6ff9.js"
+    "static/js/main.4d2f86f0.js"
   ]
 }
